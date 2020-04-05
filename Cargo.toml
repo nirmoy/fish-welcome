@@ -1,0 +1,9 @@
+[package]
+name = "fish-welcome"
+version = "0.1.0"
+authors = ["Nirmoy Das <nirmoy.aiemd@gmail.com>"]
+edition = "2018"
+
+
+[dependencies]
+termion = "*"
